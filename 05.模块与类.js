@@ -1,0 +1,6 @@
+1.模块是程序设计中，为完成某一功能随需的一段程序或子程序
+拥有多个属性和方法
+Node.js拥有私有成员和公有成员，区分私有和公有成员
+1.exports和module.exports的成员为公有成员
+2.非exports和module.exports的成员为私有成员
+Node.js的模块不是类
