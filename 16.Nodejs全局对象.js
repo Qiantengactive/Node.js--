@@ -1,0 +1,7 @@
+全局对象
+global 
+类似于客户端JavaScript运行环境中的window
+process
+用于获取当前的Node进程信息，一般用于获取环境变量之类的信息
+console
+Node中内置的console模块，提供操作控制台的输入输出功能，常见使用方式与客户端类似
